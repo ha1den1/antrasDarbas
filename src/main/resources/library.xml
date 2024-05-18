@@ -1,0 +1,35 @@
+<library>
+    <books>
+        <book>
+            <title>Moby Dick</title>
+            <author>Writer Wrauter</author>
+            <isbn>4985665632531</isbn>
+        </book>
+        <book>
+            <title>Mockingbird</title>
+            <author>Ben Benner</author>
+            <isbn>1234567890123</isbn>
+        </book>
+        
+    </books>
+    <members>
+        <member>
+            <id>M001</id>
+            <name>Juan Dieg</name>
+        </member>
+        <member>
+            <id>M002</id>
+            <name>Twa Pleg</name>
+        </member>
+        
+    </members>
+    <transactions>
+        <transaction>
+            <bookISBN>1234567890123</bookISBN>
+            <memberID>M001</memberID>
+            <borrowDate>2024-05-17</borrowDate>
+            <returnDate>2024-06-17</returnDate>
+        </transaction>
+        
+    </transactions>
+</library>
